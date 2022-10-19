@@ -47,7 +47,7 @@ patrimônio previsto para este ano.
 
 <p>
 
-1) Link para Dashboard: [Teste Prático | curva ABC]("https://datastudio.google.com/reporting/6e162161-5e54-44e5-9dd4-fe380f6561f1/page/diS5C")
+1) Link para Dashboard: [Teste_Pratico_Curva_ABC]("https://datastudio.google.com/reporting/6e162161-5e54-44e5-9dd4-fe380f6561f1/page/diS5C")
 2) Arquivo **ETL_Storytelling.ipynb**: contém todo o processo de ETL realizado e documentado.
 3) Arquivo **curva_abc_final.csv**: base de dados gerada ao final da execução do ETL, utilizada para construção do dashboard.
 4) Arquivos **correntistas_banco_bravos_1.csv** e **correntistas_obito_1.csv**: bases de dados fornecidas para construção do processo de ETL.
