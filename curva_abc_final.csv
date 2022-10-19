@@ -1,0 +1,747 @@
+Classificacao,Familia,Saldo_para_investimento,total_%,Nome
+A,House Targaryen,938885.0,0.03895,Daenerys Targaryen
+A,House Targaryen,39997.0,0.00166,Brynden Rivers
+A,House Targaryen,33889.0,0.00141,Rhaenys Targaryen
+A,House Targaryen,7542.0,0.00031,Mushroom
+A,House Targaryen,25609.0,0.00106,Illyrio Mopatis
+A,House Targaryen,38166.0,0.00158,Visenya Targaryen
+A,House Targaryen,31852.0,0.00132,Jaehaerys Targaryen (son of Aegon II)
+A,House Targaryen,20065.0,0.00083,Aemond Targaryen
+A,House Targaryen,61899.0,0.00257,Aegon Targaryen (son of Rhaegar)
+A,House Targaryen,6507.0,0.00027,Viserys Targaryen
+A,House Targaryen,49939.0,0.00207,Daella Targaryen (daughter of Maekar I)
+A,House Targaryen,22058.0,0.00091,Groleo
+A,House Targaryen,48288.0,0.002,Saera Targaryen
+A,House Targaryen,20430.0,0.00085,Daemon Targaryen
+A,House Targaryen,28665.0,0.00119,Rhaenys Targaryen (daughter of Rhaegar)
+A,House Targaryen,51433.0,0.00213,Rhaegel Targaryen
+A,House Targaryen,32017.0,0.00133,Rhaella Targaryen
+A,House Targaryen,23324.0,0.00097,Belwas
+A,House Targaryen,43422.0,0.0018,Shiera Seastar
+A,House Targaryen,946.0,4e-05,Rakharo
+A,House Targaryen,53174.0,0.00221,Rolly Duckfield
+A,House Targaryen,15119.0,0.00063,Elaena Targaryen
+A,House Targaryen,28982.0,0.0012,Missandei
+A,House Targaryen,40048.0,0.00166,Jaehaera Targaryen
+A,House Targaryen,44439.0,0.00184,Aegon Targaryen (son of Baelon)
+A,House Targaryen,23802.0,0.00099,Baela Targaryen
+A,House Targaryen,60165.0,0.0025,Rhaena Targaryen (daughter of Aegon III)
+A,House Targaryen,56781.0,0.00236,Aegon Targaryen (son of Aenys I)
+A,House Targaryen,33403.0,0.00139,Valarr Targaryen
+A,House Targaryen,18865.0,0.00078,Matarys Targaryen
+A,House Targaryen,31724.0,0.00132,Daena Targaryen
+A,House Lannnister,687896.0,0.02853,Tyrion Lannister
+A,House Lannister,645842.0,0.02679,Cersei Lannister
+A,House Lannister,36190.0,0.0015,Dorcas
+A,House Lannister,26626.0,0.0011,Puckens
+A,House Lannister,26985.0,0.00112,Pycelle
+A,House Lannister,15436.0,0.00064,Damion Lannister
+A,House Lannister,9579.0,0.0004,Jaime Lannister
+A,House Lannister,14879.0,0.00062,Dunaver
+A,House Lannister,53429.0,0.00222,Willem Lannister
+A,House Lannister,60377.0,0.0025,Tybolt Lannister
+A,House Lannister,21405.0,0.00089,Lester
+A,House Lannister,65652.0,0.00272,Margot Lannister
+A,House Lannister,48570.0,0.00201,Tregar
+A,House Lannister,44934.0,0.00186,Cadwyn
+A,House Lannister,18215.0,0.00076,Gerion Lannister
+A,House Lannister,57588.0,0.00239,Lum
+A,House Lannister,11203.0,0.00046,Janei Lannister
+A,House Lannister,2410.0,0.0001,Joanna Lannister
+A,House Lannister,67621.0,0.00281,Godwyn
+A,House Lannister,17325.0,0.00072,Senelle
+A,House Lannister,37999.0,0.00158,Jason Lannister
+A,House Lannister,7579.0,0.00031,Daven Lannister
+A,House Lannister,33286.0,0.00138,Shortear
+A,House Lannister,7881.0,0.00033,Tytos Lannister
+A,House Lannister,61111.0,0.00253,Tywin Lannister
+A,House Lannister,26383.0,0.00109,Myrielle Lannister
+A,House Lannister,53195.0,0.00221,Jodge
+A,House Lannister,11587.0,0.00048,Lanna Lannister
+A,House Lannister,39360.0,0.00163,Lann the Clever
+A,House Starrkk,490084.0,0.02033,Arya Stark
+A,House Starrkk,413916.0,0.01717,Jon Snow
+B,House Meadows,55820.0,0.00232,Lysa Meadows
+B,House Meadows,16508.0,0.00068,Elwood Meadows
+A,House Stark,18907.0,0.00078,Palla
+A,House Stark,19019.0,0.00079,TomToo
+A,House Stark,22757.0,0.00094,Jacks
+A,House Stark,38090.0,0.00158,Harwin
+A,House Stark,3522.0,0.00015,Farlen
+A,House Stark,11524.0,0.00048,Edwyle Stark
+A,House Stark,36340.0,0.00151,Edwyn Stark
+A,House Stark,24462.0,0.00101,Eyron Stark
+A,House Stark,8248.0,0.00034,Brandon Stark (the daughterless)
+A,House Stark,299.0,1e-05,Rodrik Stark
+A,House Stark,30125.0,0.00125,Beron Stark
+A,House Stark,32928.0,0.00137,Bran the Builder
+A,House Stark,36690.0,0.00152,Eddard Stark
+A,House Stark,1476.0,6e-05,Barthogan Stark
+A,House Stark,45662.0,0.00189,Alyn
+A,House Stark,27443.0,0.00114,Hodor
+A,House Stark,21318.0,0.00088,Murch (Winterfell)
+A,House Stark,1401.0,6e-05,Donnor Stark
+A,House Stark,49412.0,0.00205,Brandon Stark
+A,House Stark,25668.0,0.00106,Calon
+A,House Stark,41529.0,0.00172,Jonos Stark
+A,House Stark,28093.0,0.00117,Cregan Stark
+A,House Stark,50762.0,0.00211,Walton Stark
+A,House Stark,8726.0,0.00036,Gage
+A,House Stark,44346.0,0.00184,Brandon Stark (Bad)
+A,House Stark,9163.0,0.00038,Rickard Stark
+A,House Stark,34371.0,0.00143,Jorah Stark
+A,House Stark,59789.0,0.00248,Brandon Stark (son of Cregan)
+A,House Stark,11285.0,0.00047,Quent
+A,House Stark,25851.0,0.00107,Wyl (guard)
+B,House Seaworth,26553.0,0.0011,Maric Seaworth
+B,House Seaworth,16567.0,0.00069,Dale Seaworth
+B,House Seaworth,21352.0,0.00089,Devan Seaworth
+B,House Seaworth,52198.0,0.00217,Matthos Seaworth
+B,House Seaworth,23125.0,0.00096,Davos Seaworth
+A,House Whent,54680.0,0.00227,Oswell Whent
+A,House Whent,41944.0,0.00174,Harra
+A,House Whent,13614.0,0.00056,Ben Blackthumb
+A,House Whent,29796.0,0.00124,Minisa Whent
+A,House Whent,19311.0,0.0008,Weese
+A,House Whent,33902.0,0.00141,Sarya Whent
+A,House Whent,5589.0,0.00023,Wynafrei Whent
+C,House Estren,15169.0,0.00063,Regenard Estren
+B,House Manwoody,11802.0,0.00049,Dagos Manwoody
+B,House Manwoody,37674.0,0.00156,Mors Manwoody
+B,House Manwoody,18568.0,0.00077,Dickon Manwoody
+A,House Frey,14560.0,0.0006,Raymund Frey
+A,House Frey,2851.0,0.00012,Sarra Frey
+A,House Frey,43663.0,0.00181,Olyvar Frey
+A,House Frey,24111.0,0.001,Jonos Frey
+A,House Frey,1136.0,5e-05,Tysane Frey
+A,House Frey,8206.0,0.00034,Stevron Frey
+A,House Frey,38101.0,0.00158,Shirei Frey
+A,House Frey,20054.0,0.00083,Willem Frey
+A,House Frey,45919.0,0.0019,Tywin Frey
+A,House Frey,52560.0,0.00218,Perwyn Frey
+A,House Frey,21280.0,0.00088,Maegelle Frey
+A,House Frey,34069.0,0.00141,Alys Frey
+A,House Frey,12528.0,0.00052,Steffon Frey
+A,House Frey,10035.0,0.00042,Aenys Frey
+A,House Frey,39598.0,0.00164,Elmar Frey
+A,House Frey,19304.0,0.0008,Sandor Frey
+A,House Frey,11517.0,0.00048,Kyra Frey
+A,House Frey,45605.0,0.00189,Brenett
+A,House Frey,27919.0,0.00116,Ronel Rivers
+A,House Frey,33049.0,0.00137,Colmar Frey
+A,House Frey,60442.0,0.00251,Androw Frey
+A,House Frey,61571.0,0.00255,Cynthea Frey
+A,House Frey,57805.0,0.0024,Arwyn Frey
+A,House Frey,39571.0,0.00164,Hoster Frey
+A,House Frey,20199.0,0.00084,Perra Frey
+A,House Frey,1676.0,7e-05,Alyn Frey
+A,House Frey,13579.0,0.00056,Walda Frey (daughter of Lothar)
+A,House Frey,7013.0,0.00029,Morya Frey
+A,House Frey,5644.0,0.00023,Bryan Frey
+A,House Frey,39337.0,0.00163,Walda Rivers
+A,House Frey,27623.0,0.00115,Ryella Frey
+A,House Frey,38113.0,0.00158,Walda Frey (daughter of Edwyn)
+A,House Frey,16214.0,0.00067,Malwyn Frey
+A,House Frey,14739.0,0.00061,Ryger Rivers
+A,House Frey,26325.0,0.00109,Walder Frey (son of Merrett)
+A,House Frey,38385.0,0.00159,Jaime Frey
+A,House Frey,9401.0,0.00039,Walder Frey
+A,House Frey,40231.0,0.00167,Cleos Frey
+A,House Frey,15257.0,0.00063,Jyanna Frey
+A,House Frey,20011.0,0.00083,Robert Frey
+A,House Frey,51389.0,0.00213,Tywin Frey (son of Raymund)
+A,House Frey,38920.0,0.00161,Theo Frey
+A,House Frey,5802.0,0.00024,Osmund Frey
+A,House Frey,12963.0,0.00054,Zia Frey
+A,House Frey,5190.0,0.00022,Emberlei Frey
+A,House Frey,11846.0,0.00049,Tyta Frey
+A,House Frey,35202.0,0.00146,Addam Frey
+A,House Frey,27940.0,0.00116,Tytos Frey
+A,House Frey,50301.0,0.00209,Benfrey Frey
+A,House Frey,27132.0,0.00113,Mellara Rivers
+A,House Frey,21601.0,0.0009,Della Frey
+A,House Frey,31582.0,0.00131,Walton Frey
+A,House Frey,44533.0,0.00185,Lythene Frey
+A,House Frey,24734.0,0.00103,Pate of the Blue Fork
+A,House Frey,7588.0,0.00031,Hosteen Frey
+B,Blacks,15207.0,0.00063,Nettles
+B,Blacks,46966.0,0.00195,Gerardys
+B,Blacks,6493.0,0.00027,Ulf the White
+B,Blacks,35933.0,0.00149,Hugh Hammer
+B,House Ball,63963.0,0.00265,Quentyn Ball
+B,House Bolton,37340.0,0.00155,Grunt
+B,House Bolton,14461.0,0.0006,Reek
+B,House Bolton,2938.0,0.00012,Nage
+B,House Bolton,9776.0,0.00041,Bethany Bolton
+B,House Bolton,9794.0,0.00041,Damon Dance-for-Me
+B,House Bolton,65233.0,0.00271,Sour Alyn
+B,House Bolton,2529.0,0.0001,Skinner
+B,House Bolton,20732.0,0.00086,Domeric Bolton
+C,House Inchfield,30243.0,0.00125,Owen Inchfield
+A,House Martell,23252.0,0.00096,Elia Sand
+A,House Martell,38192.0,0.00158,Nymeria
+A,House Martell,17262.0,0.00072,Sarella Sand
+A,House Martell,45779.0,0.0019,Myles
+A,House Martell,17346.0,0.00072,Maron Martell
+A,House Martell,11068.0,0.00046,Dorea Sand
+A,House Martell,15098.0,0.00063,Quentyn Martell
+A,House Martell,19606.0,0.00081,Trystane Martell
+A,House Martell,48487.0,0.00201,Mors Martell
+A,House Martell,9871.0,0.00041,Timoth
+A,House Martell,32460.0,0.00135,Caleotte
+A,House Martell,33296.0,0.00138,Nymeria Sand
+A,House Martell,38923.0,0.00161,Loreza Sand
+A,House Martell,50963.0,0.00211,Morra
+A,House Martell,33460.0,0.00139,Areo Hotah
+A,House Martell,5686.0,0.00024,Mellei
+A,House Martell,54555.0,0.00226,Obella Sand
+A,House Martell,43637.0,0.00181,Ricasso
+A,House Waynwood,57760.0,0.0024,Elys Waynwood
+A,House Waynwood,33543.0,0.00139,Wallace Waynwood
+A,House Waynwood,35234.0,0.00146,Marsella Waynwood
+A,House Waynwood,65886.0,0.00273,Wyl Waynwood
+A,House Waynwood,14947.0,0.00062,Anya Waynwood
+A,House Waynwood,8313.0,0.00034,Morton Waynwood
+A,House Waynwood,41694.0,0.00173,Jasper Waynwood
+C,House Lorch,721.0,3e-05,Amory Lorch
+C,House Farrow,46373.0,0.00192,Richard Farrow
+C,House Hasty,40122.0,0.00166,Bonifer Hasty
+A,House Greyjoy,21251.0,0.00088,Sylas
+A,House Greyjoy,17729.0,0.00074,Urzen
+A,House Greyjoy,6003.0,0.00025,Quenton Greyjoy
+A,House Greyjoy,8671.0,0.00036,Rodrik Greyjoy
+A,House Greyjoy,37123.0,0.00154,Wendamyr
+A,House Greyjoy,37922.0,0.00157,Rymolf
+A,House Greyjoy,41911.0,0.00174,Quellon Greyjoy
+A,House Greyjoy,34245.0,0.00142,Theon Greyjoy
+A,House Greyjoy,23821.0,0.00099,Dagmer
+A,House Greyjoy,44497.0,0.00185,Nute
+A,House Greyjoy,10618.0,0.00044,Cragorn
+A,House Greyjoy,6829.0,0.00028,Stygg
+A,House Greyjoy,45137.0,0.00187,Alannys Harlaw
+A,House Greyjoy,1924.0,8e-05,Vickon Greyjoy
+A,House Greyjoy,7380.0,0.00031,Victarion Greyjoy
+A,House Greyjoy,42966.0,0.00178,Tymor
+B,House Baratheon of Dragonstone,25451.0,0.00106,Lewys the Fishwife
+B,House Baratheon of Dragonstone,5300.0,0.00022,Salladhor Saan
+B,House Baratheon of Dragonstone,75941.0,0.00315,Shireen Baratheon
+A,House Botley,27906.0,0.00116,Maron Botley
+A,House Botley,11622.0,0.00048,Sawane Botley
+A,House Botley,56353.0,0.00234,Harlon Botley
+A,House Botley,8903.0,0.00037,Lucimore Botley
+A,House Botley,26207.0,0.00109,Wex Pyke
+A,House Botley,10465.0,0.00043,Bennarion Botley
+A,House Botley,34424.0,0.00143,Quellon Botley
+A,House Botley,12639.0,0.00052,Harren Botley
+C,House Blackmont,9490.0,0.00039,Larra Blackmont
+B,House Tully,14289.0,0.00059,Edmyn Tully
+B,House Tully,4684.0,0.00019,Elwood
+B,House Tully,14503.0,0.0006,Edmure Tully
+B,House Tully,41662.0,0.00173,Delp
+B,House Tully,7500.0,0.00031,Long Lew
+B,House Tully,63236.0,0.00262,Myles (squire)
+B,House Tully,12762.0,0.00053,Enger
+A,Night's Watch,42892.0,0.00178,Yoren
+A,Night's Watch,40376.0,0.00167,Orphan Oss
+A,Night's Watch,8943.0,0.00037,Dalbridge
+A,Night's Watch,26228.0,0.00109,Jafer Flowers
+A,Night's Watch,52321.0,0.00217,Owen
+A,Night's Watch,18414.0,0.00076,Dirk
+A,Night's Watch,6506.0,0.00027,Grenn
+A,Night's Watch,55569.0,0.00231,Spare Boot
+A,Night's Watch,8794.0,0.00036,Grubbs
+A,Night's Watch,38079.0,0.00158,Easy
+A,Night's Watch,24503.0,0.00102,Red Alyn of the Rosewood
+A,Night's Watch,19738.0,0.00082,Tim Stone
+A,Night's Watch,75068.0,0.00311,Jorquen
+A,Night's Watch,23719.0,0.00098,Cotter Pyke
+A,Night's Watch,30222.0,0.00125,Elron
+A,Night's Watch,16615.0,0.00069,Dywen
+A,Night's Watch,52275.0,0.00217,Black Bernarr
+A,Night's Watch,18076.0,0.00075,Goady
+A,Night's Watch,41562.0,0.00172,Sawwood
+A,Night's Watch,20309.0,0.00084,Brown Bernarr
+A,Night's Watch,10832.0,0.00045,Robin Hill
+A,Night's Watch,29527.0,0.00122,Ebben
+A,Night's Watch,33931.0,0.00141,Stiv
+A,Night's Watch,27543.0,0.00114,Kegs
+A,Night's Watch,27961.0,0.00116,Gueren
+A,Night's Watch,18647.0,0.00077,Rudge
+A,Night's Watch,28761.0,0.00119,Watt
+A,Night's Watch,43176.0,0.00179,Marq Rankenfell
+A,Night's Watch,17377.0,0.00072,Arron
+A,Night's Watch,13034.0,0.00054,Hop-Robin
+A,Night's Watch,25999.0,0.00108,Pate (Night's Watch)
+A,Night's Watch,17553.0,0.00073,Conwy
+A,Night's Watch,26857.0,0.00111,Todder
+A,Night's Watch,17351.0,0.00072,Albett
+A,Night's Watch,10538.0,0.00044,Redwyn
+A,Night's Watch,10487.0,0.00044,Dornish Dilly
+A,Night's Watch,2828.0,0.00012,Hairy Hal
+A,Night's Watch,59558.0,0.00247,Rat Cook
+A,Night's Watch,44393.0,0.00184,Rusty Flowers
+A,Night's Watch,35681.0,0.00148,Hobb
+A,Night's Watch,17191.0,0.00071,Kedge Whiteye
+A,Night's Watch,38728.0,0.00161,Bearded Ben
+A,Night's Watch,5502.0,0.00023,Gared
+A,Night's Watch,14734.0,0.00061,Halder
+A,Night's Watch,4706.0,0.0002,Cuger
+A,Night's Watch,29262.0,0.00121,Satin
+A,Night's Watch,19903.0,0.00083,Harmune
+A,Night's Watch,9388.0,0.00039,Emrick
+A,House Webber,40524.0,0.00168,Reynard Webber
+A,House Webber,25045.0,0.00104,Rohanne Webber
+A,House Webber,33199.0,0.00138,Jorgen
+A,House Webber,31085.0,0.00129,Wolmer
+A,House Webber,68917.0,0.00286,Wendell Webber
+B,House Arryn,10629.0,0.00044,Mord
+B,House Arryn,7072.0,0.00029,Becca
+B,House Arryn,9712.0,0.0004,Maddy
+B,House Arryn,25137.0,0.00104,Gretchel
+B,House Arryn,7480.0,0.00031,Jon Arryn
+B,House Arryn,20060.0,0.00083,Aemma Arryn
+B,House Arryn,4141.0,0.00017,Hugh
+B,House Arryn,18864.0,0.00078,Jeyne Arryn
+B,House Arryn,10510.0,0.00044,Jasper Arryn
+B,House Darry,29778.0,0.00124,Willem Darry
+B,House Darry,30960.0,0.00128,Lyman Darry
+B,House Darry,32561.0,0.00135,Jonothor Darry
+B,House Darry,21373.0,0.00089,Jeyne Darry
+C,House Costayne,25540.0,0.00106,Tom Costayne
+C,House Costayne,18783.0,0.00078,Tommen Costayne
+B,Chataya's brothel,35763.0,0.00148,Alayaya
+B,Chataya's brothel,37445.0,0.00155,Marei
+C,House Staunton,39148.0,0.00162,Sefton Staunton
+B,House Clegane,22392.0,0.00093,Tobbot
+B,House Clegane,31973.0,0.00133,Dunsen
+B,House Clegane,35089.0,0.00146,Polliver
+B,House Clegane,8637.0,0.00036,Sandor Clegane
+B,House Clegane,375.0,2e-05,Eggon
+B,House Clegane,41554.0,0.00172,Rafford
+B,House Clegane,27990.0,0.00116,Joss Stilwood
+C,House Banefort,49795.0,0.00207,Quenten Banefort
+C,House Qorgyle,15734.0,0.00065,Gulian Qorgyle
+C,House Qorgyle,1983.0,8e-05,Quentyn Qorgyle
+C,House Drinkwater,16482.0,0.00068,Gerris Drinkwater
+C,House Farwynd of the Lonely Light,7154.0,0.0003,Gylbert Farwynd
+B,Second Sons,58079.0,0.00241,Penny
+B,Second Sons,22554.0,0.00094,Tybero Istarion
+C,House Gower,14525.0,0.0006,Gerald Gower
+B,House Hightower,44038.0,0.00183,Alerie Hightower
+B,House Hightower,27469.0,0.00114,Runcel Hightower
+B,House Hightower,28297.0,0.00117,Alicent Hightower
+B,House Hightower,23103.0,0.00096,Quenton Hightower
+B,House Hightower,2284.0,9e-05,Otto Hightower
+B,House Harlaw,17230.0,0.00071,Rodrik Harlaw
+B,House Harlaw,15356.0,0.00064,Dykk Harlaw
+B,House Harlaw,41370.0,0.00172,Gevin Harlaw
+B,House Harlaw,43146.0,0.00179,Three-Tooth
+C,House Stonetree,1108.0,5e-05,Sigfry Stonetree
+B,House Velaryon,14236.0,0.00059,Laenor Velaryon
+B,House Velaryon,44021.0,0.00183,Alyn Velaryon
+B,House Velaryon,28242.0,0.00117,Valaena Velaryon
+B,House Velaryon,52980.0,0.0022,Monterys Velaryon
+B,House Velaryon,24407.0,0.00101,Laena Velaryon
+B,House Karstark,8001.0,0.00033,Torrhen Karstark
+B,House Karstark,60046.0,0.00249,Arthor Karstark
+B,House Karstark,67951.0,0.00282,Eddard Karstark
+B,House Karstark,23785.0,0.00099,Alys Karstark
+B,House Karstark,4098.0,0.00017,Cregan Karstark
+B,House Karstark,2547.0,0.00011,Rickard Karstark
+C,House Ruttiger,55086.0,0.00229,Raynard Ruttiger
+C,House Spicer,2926.0,0.00012,Sybell Spicer
+C,House Spicer,16379.0,0.00068,Rolph Spicer
+B,Faith of the Seven,25087.0,0.00104,High Sparrow
+B,Faith of the Seven,68226.0,0.00283,Murmison
+B,Faith of the Seven,717.0,3e-05,Raynard
+B,Faith of the Seven,37470.0,0.00155,Eglantine
+B,Faith of the Seven,11587.0,0.00048,Eustace (Braavos)
+B,House Baelish,17059.0,0.00071,Petyr Baelish
+B,House Baelish,61313.0,0.00254,Umfred
+B,House Baelish,21655.0,0.0009,Grisel
+C,House Piper,15322.0,0.00064,Lewys Piper
+C,House Piper,35729.0,0.00148,Clement Piper
+B,House Redwyne,42883.0,0.00178,Horas Redwyne
+B,House Redwyne,47914.0,0.00199,Ryam Redwyne
+B,House Redwyne,3209.0,0.00013,Ballabar
+C,House Mullendore,40861.0,0.00169,Martyn Mullendore
+C,House Mullendore,8360.0,0.00035,Mark Mullendore
+B,House Royce,7235.0,0.0003,Kyle Royce
+B,House Royce,32903.0,0.00136,Samwell Stone
+B,House Royce,36653.0,0.00152,Ryella Royce
+B,House Royce,16151.0,0.00067,Waymar Royce
+B,House Royce,1150.0,5e-05,Andar Royce
+B,House Royce,15055.0,0.00062,Rhea Royce
+B,House Royce,34935.0,0.00145,Ysilla Royce
+A,House of Loraq,26527.0,0.0011,Mazdhan zo Loraq
+A,House of Loraq,11906.0,0.00049,Bhakaz zo Loraq
+A,House of Loraq,38984.0,0.00162,Marghaz zo Loraq
+A,House of Loraq,63474.0,0.00263,Khrazz
+A,House of Loraq,38364.0,0.00159,Zharaq zo Loraq
+A,House of Loraq,20360.0,0.00084,Steelskin
+A,House of Loraq,19982.0,0.00083,Hazrak zo Loraq
+B,House Florent,33431.0,0.00139,Erren Florent
+B,House Florent,57161.0,0.00237,Ryam Florent
+B,House Florent,7480.0,0.00031,Merrell Florent
+B,House Florent,16231.0,0.00067,Axell Florent
+B,House Florent,61403.0,0.00255,Rhea Florent
+B,House Selmy,58333.0,0.00242,Barristan Selmy
+B,House Selmy,27400.0,0.00114,Lyonel Selmy
+C,House Byrch,20213.0,0.00084,Balman Byrch
+C,House Bulwer,25444.0,0.00106,Buford Bulwer
+C,House Bulwer,2133.0,9e-05,Alysanne Bulwer
+C,House Tallhart,41999.0,0.00174,Leobald Tallhart
+C,House Tallhart,348.0,1e-05,Beren Tallhart
+C,House Connington,30286.0,0.00126,Alyn Connington
+C,House Connington,27319.0,0.00113,Ronald Storm
+C,House of Galare,12445.0,0.00052,Grazdan zo Galare
+C,House of Galare,11306.0,0.00047,Grazdar zo Galare
+C,House of Galare,14153.0,0.00059,Elza
+B,House Mormont,9102.0,0.00038,Jorelle Mormont
+B,House Mormont,46727.0,0.00194,Alysane Mormont
+B,House Mormont,19501.0,0.00081,Maege Mormont
+B,House Mormont,38721.0,0.00161,Dacey Mormont
+B,House Mormont,6053.0,0.00025,Jeor Mormont
+B,House Hardyng,71626.0,0.00297,Deana Hardyng
+B,Brave Companions,63468.0,0.00263,Three Toes
+B,Brave Companions,4635.0,0.00019,Rorge
+B,Brave Companions,18618.0,0.00077,Vargo Hoat
+B,Brave Companions,12536.0,0.00052,Zollo
+B,Brave Companions,35560.0,0.00148,Togg Joth
+C,Antler Men,60291.0,0.0025,Salloreon
+C,House Stout,11197.0,0.00046,Ronnel Stout
+A,House Tyrell,24628.0,0.00102,Mace Tyrell
+A,House Tyrell,5507.0,0.00023,Leo Tyrell (Longthorn)
+A,House Tyrell,25816.0,0.00107,Margaery Tyrell
+A,House Tyrell,39728.0,0.00165,Janna Tyrell
+A,House Tyrell,38006.0,0.00158,Loras Tyrell
+A,House Tyrell,2389.0,0.0001,Garse Flowers
+A,House Tyrell,22733.0,0.00094,Olymer Tyrell
+A,House Tyrell,23244.0,0.00096,Lyonel Tyrell (son of Leo)
+A,House Tyrell,33910.0,0.00141,Megga Tyrell
+A,House Tyrell,17604.0,0.00073,Lucas Tyrell
+A,House Tyrell,16582.0,0.00069,Leo Tyrell (son of Victor)
+A,House Tyrell,53768.0,0.00223,Victaria Tyrell
+A,House Tyrell,47150.0,0.00196,Erryk (guard)
+A,House Tyrell,22258.0,0.00092,Theodore Tyrell
+A,House Tyrell,57988.0,0.00241,Moryn Tyrell
+A,House Tyrell,11623.0,0.00048,Olene Tyrell
+A,House Tyrell,47326.0,0.00196,Lorent Tyrell
+A,House Tyrell,7465.0,0.00031,Arryk (guard)
+A,House Tyrell,62652.0,0.0026,Elinor Tyrell
+A,House Tyrell,4424.0,0.00018,Victor Tyrell
+C,House Mudd,56456.0,0.00234,Tristan Mudd
+A,House Osgrey,36470.0,0.00151,Lem (Standfast)
+A,House Osgrey,16298.0,0.00068,Bennis
+A,House Osgrey,48678.0,0.00202,Alysanne Osgrey
+A,House Osgrey,64070.0,0.00266,Rob
+A,House Osgrey,20785.0,0.00086,Will (Treb)
+A,House Osgrey,17135.0,0.00071,Wilbert Osgrey
+A,House Osgrey,42703.0,0.00177,Sam Stoops
+A,House Osgrey,29157.0,0.00121,Mudge (swineherd)
+C,House Harlaw of Harlaw Hall,31348.0,0.0013,Sigfryd Harlaw
+C,House Fossoway of Cider Hall,25259.0,0.00105,Tanton Fossoway
+C,House Fossoway of Cider Hall,27713.0,0.00115,Edwyd Fossoway
+C,House Hunt,14909.0,0.00062,Alyn Hunt
+C,House Harlaw of Grey Garden,24756.0,0.00103,Harras Harlaw
+B,House Reed,3182.0,0.00013,Jojen Reed
+B,House Reed,50031.0,0.00208,Howland Reed
+B,House Reed,51005.0,0.00212,Meera Reed
+C,House Cerwyn,56880.0,0.00236,Cley Cerwyn
+C,House Locke,17399.0,0.00072,Sybelle Glover
+B,House Blackwood,14090.0,0.00058,Quentyn Blackwood
+B,House Blackwood,34361.0,0.00143,Melissa Blackwood
+B,House Blackwood,53034.0,0.0022,Tytos Blackwood
+B,Alchemists' Guild,37999.0,0.00158,Garigus
+B,Alchemists' Guild,16202.0,0.00067,Belis
+B,Alchemists' Guild,39499.0,0.00164,Malliard
+C,House Rhysling,3919.0,0.00016,Robyn Rhysling
+B,House Cassel,29264.0,0.00121,Martyn Cassel
+B,House Cassel,58439.0,0.00242,Rodrik Cassel
+B,House Cassel,5921.0,0.00025,Beth Cassel
+B,House Cassel,6410.0,0.00027,Jory Cassel
+C,House of Kandaq,40699.0,0.00169,Skahaz mo Kandaq
+B,House Vance of Atranta,74327.0,0.00308,Hugo Vance
+B,House Vance of Atranta,28900.0,0.0012,Norbert Vance
+B,House Vance of Atranta,24581.0,0.00102,Kirth Vance
+C,House Penny,42780.0,0.00177,Jon Penny
+C,House Massey,27244.0,0.00113,Justin Massey
+C,House Wells,31036.0,0.00129,Willam Wells
+B,House Oakheart,26031.0,0.00108,Edgerran Oakheart
+B,House Oakheart,20569.0,0.00085,Olyvar Oakheart
+B,House Oakheart,54083.0,0.00224,Arwyn Oakheart
+C,House Crakehall,27488.0,0.00114,Tybolt Crakehall
+B,House Westerling,2615.0,0.00011,Ormond Westerling
+B,House Westerling,1195.0,5e-05,Rollam Westerling
+B,House Westerling,11162.0,0.00046,Jeyne Westerling (wife of Maegor I)
+B,House Westerling,48661.0,0.00202,Raynald Westerling
+A,House Bracken,69845.0,0.0029,Aegor Rivers
+A,House Bracken,26530.0,0.0011,Kurleket
+A,House Bracken,2828.0,0.00012,Alysanne Bracken
+A,House Bracken,58223.0,0.00242,Lharys
+A,House Bracken,30090.0,0.00125,Mohor
+A,House Bracken,12422.0,0.00052,Jonos Bracken
+B,House Vance of Wayfarer's Rest,35338.0,0.00147,Emphyria Vance
+B,House Vance of Wayfarer's Rest,14279.0,0.00059,Liane Vance
+B,House Vance of Wayfarer's Rest,40928.0,0.0017,Karyl Vance
+C,House Longthorpe,23350.0,0.00097,Rolland Longthorpe
+C,House of Reznak,8089.0,0.00034,Reznak mo Reznak
+C,House Grimm,8447.0,0.00035,Guthor Grimm
+B,House Conklyn,63366.0,0.00263,Clifford Conklyn
+C,House Wull,3507.0,0.00015,Hugo Wull
+C,House Grafton,11917.0,0.00049,Gerold Grafton
+A,House Baratheon,3535.0,0.00015,Colen of Greenpools
+A,House Baratheon,56986.0,0.00236,Edric Storm
+A,House Baratheon,169.0,1e-05,Brella
+A,House Baratheon,31064.0,0.00129,Harbert
+A,House Baratheon,52651.0,0.00218,Barra
+A,House Baratheon,54452.0,0.00226,Steffon Baratheon
+A,House Baratheon,60663.0,0.00252,Gowen Baratheon
+A,House Baratheon,2555.0,0.00011,Orys Baratheon
+A,House Baratheon,15357.0,0.00064,Lyonel Baratheon
+B,House Frey of Riverrun,70554.0,0.00293,Emmon Frey
+B,House Frey of Riverrun,15592.0,0.00065,Lyonel Frey
+C,House Foote,38809.0,0.00161,Philip Foote
+B,House Ironmaker,37693.0,0.00156,Erik Ironmaker
+B,House Ironmaker,49213.0,0.00204,Dagon Ironmaker
+B,House Cuy,60253.0,0.0025,Branston Cuy
+B,House Cuy,35664.0,0.00148,Emmon Cuy
+C,House Rykker,9505.0,0.00039,Renfred Rykker
+B,House Chyttering,65379.0,0.00271,Lucos Chyttering
+B,House Yronwood,20087.0,0.00083,Anders Yronwood
+B,House Yronwood,55934.0,0.00232,Ormond Yronwood
+B,House Wylde,1216.0,5e-05,Jasper Wylde
+B,House Wylde,38902.0,0.00161,Jon Wylde
+B,House Wylde,16038.0,0.00067,Gawen Wylde
+B,House Wylde,39820.0,0.00165,Tyana Wylde
+B,House Wylde,15378.0,0.00064,Ormund Wylde
+B,House Wylde,26384.0,0.00109,Rickard Wylde
+B,House Wylde,28940.0,0.0012,Gladden Wylde
+C,House Tollett,28477.0,0.00118,Eddison Tollett
+C,House Tollett,15177.0,0.00063,Uthor Tollett
+B,House Swyft,21767.0,0.0009,Jocelyn Swyft
+B,House Swyft,56814.0,0.00236,Harys Swyft
+B,House Swyft,64085.0,0.00266,Addison Hill
+B,House Swyft,6659.0,0.00028,Humfrey Swyft
+C,House Mallister,57292.0,0.00238,Jason Mallister
+B,House Swann,6307.0,0.00026,Cyrenna Swann
+B,House Swann,42514.0,0.00176,Manfred Swann
+B,House Swann,24875.0,0.00103,Balon Swann
+B,House Swann,38589.0,0.0016,Ravella Swann
+C,House Boggs,5651.0,0.00023,Mortimer Boggs
+C,House Ryswell,25842.0,0.00107,Rodrik Ryswell
+C,House Ryswell,11734.0,0.00049,Mark Ryswell
+C,House Vance,20734.0,0.00086,Marianne Vance
+C,House Hornwood,37904.0,0.00157,Daryn Hornwood
+C,House Hornwood,4763.0,0.0002,Larence Snow
+C,House Liddle,43420.0,0.0018,Torren Liddle
+C,House Wagstaff,21601.0,0.0009,Humfrey Wagstaff
+C,Kingswood Brotherhood,31182.0,0.00129,Wenda
+C,House Peckledon,5835.0,0.00024,Josmyn Peckledon
+B,House Baratheon of King's Landing,10168.0,0.00042,Myrcella Baratheon
+B,House Baratheon of King's Landing,77615.0,0.00322,Orland of Oldtown
+C,House Turnberry,600.0,2e-05,Lambert Turnberry
+B,Stone Crows,37723.0,0.00156,Jaggot
+B,Stone Crows,48923.0,0.00203,Holger
+B,Stone Crows,57425.0,0.00238,Shagga
+B,Stone Crows,16681.0,0.00069,Conn
+B,House Stackspear,34736.0,0.00144,Selmond Stackspear
+B,House Stackspear,29232.0,0.00121,Alyn Stackspear
+B,House Stackspear,31274.0,0.0013,Steffon Stackspear
+B,House Redfort,27003.0,0.00112,Jon Redfort
+B,House Redfort,34074.0,0.00141,Mychel Redfort
+B,House Redfort,19309.0,0.0008,Dacks
+B,House Redfort,887.0,4e-05,Creighton Redfort
+B,House Redfort,64436.0,0.00267,Horton Redfort
+C,House Norcross,19996.0,0.00083,Hosman Norcross
+C,House Norcross,31787.0,0.00132,Bayard Norcross
+B,House Fell,46597.0,0.00193,Willis Fell
+B,House Fell,26668.0,0.00111,Harwood Fell
+C,The Citadel,10617.0,0.00044,Gyldayn
+C,House Crabb,12025.0,0.0005,Clarence Crabb
+C,House Crabb,6957.0,0.00029,Dick Crabb
+C,House Roote,31444.0,0.0013,Lucas Roote
+C,House Penrose,34195.0,0.00142,Cortnay Penrose
+C,House Penrose,12041.0,0.0005,Jon Penrose
+C,House Weaver,62443.0,0.00259,Romny Weaver
+C,House Umber,43569.0,0.00181,Hother Umber
+C,House Umber,19236.0,0.0008,Harmond Umber
+C,House Caswell,47664.0,0.00198,Armond Caswell
+C,House Caswell,5074.0,0.00021,Lord Caswell
+C,House Hewett,1067.0,4e-05,Humfrey Hewett
+C,Good Masters,24396.0,0.00101,Kraznys mo Nakloz
+C,House Wynch,41259.0,0.00171,Waldon Wynch
+C,House Bolling,26284.0,0.00109,Herbert Bolling
+C,House Pemford,1145.0,5e-05,Poul Pemford
+C,Golden Company,19954.0,0.00083,Black Balaq
+C,House Chelsted,44893.0,0.00186,Qarlton Chelsted
+C,House Beesbury,40608.0,0.00168,Humfrey Beesbury
+C,House Beesbury,16448.0,0.00068,Jeyne Beesbury
+C,House Lannister of Lannisport,44608.0,0.00185,Rosamund Lannister
+C,House of Pahl,40418.0,0.00168,Kezmya
+C,House Wythers,31462.0,0.00131,Willam Wythers
+C,House Drumm,534.0,2e-05,Gormond Drumm
+C,House Drumm,5950.0,0.00025,Dunstan Drumm
+C,House Drumm,30517.0,0.00127,Dale Drumm
+C,House Drumm,9281.0,0.00038,Donnel Drumm
+C,Thirteen,4493.0,0.00019,Xaro Xhoan Daxos
+B,House Haigh,30769.0,0.00128,Leslyn Haigh
+B,House Haigh,39742.0,0.00165,Walder Haigh
+C,House Kenning of Harlaw,30753.0,0.00128,Qarl Kenning
+B,House Darklyn,33428.0,0.00139,Serala
+B,House Darklyn,24826.0,0.00103,Rolland Darklyn
+B,House Darklyn,17794.0,0.00074,Steffon Darklyn
+C,House Condon,28836.0,0.0012,Kyle Condon
+C,Black Ears,4315.0,0.00018,Cheyk
+C,House Templeton,31081.0,0.00129,Symond Templeton
+C,Khal,37064.0,0.00154,Cohollo
+C,House Poole,25226.0,0.00105,Vayon Poole
+C,House Poole,19160.0,0.00079,Jeyne Poole
+C,House Staedmon,38248.0,0.00159,Alesander Staedmon
+C,House Fossoway of New Barrel,8639.0,0.00036,Jeyne Fossoway
+C,House Chester,754.0,3e-05,Moribald Chester
+C,House Brune of the Dyre Den,40503.0,0.00168,Eustace Brune
+C,House Estermont,2866.0,0.00012,Lomas Estermont
+C,House Estermont,45662.0,0.00189,Aemon Estermont
+C,House Myre,24194.0,0.001,Jon Myre
+C,House Ashford,40460.0,0.00168,Lord Ashford
+C,House Ashford,3666.0,0.00015,Henly (House Ashford)
+B,House Prester,48440.0,0.00201,Garrison Prester
+B,House Prester,29283.0,0.00121,Forley Prester
+C,Brotherhood Without Banners,17274.0,0.00072,Jeyne Heddle
+C,Brotherhood Without Banners,33070.0,0.00137,Willow Heddle
+B,Happy Port,27671.0,0.00115,Sailor's Wife
+B,Happy Port,17385.0,0.00072,Meralyn
+B,Happy Port,36637.0,0.00152,Lanna (Happy Port)
+C,House Stokeworth,3013.0,0.00012,Lollys Stokeworth
+C,House Stokeworth,19959.0,0.00083,Tyrion Tanner
+C,House Stokeworth,37355.0,0.00155,Falena Stokeworth
+C,House Hetherspoon,28925.0,0.0012,Tybolt Hetherspoon
+C,House Lefford,27008.0,0.00112,Alysanne Lefford
+C,House Lefford,25990.0,0.00108,Leonella Lefford
+C,House Lynderly,61158.0,0.00254,Jon Lynderly
+C,House Clifton,14311.0,0.00059,Humfrey Clifton
+B,House Allyrion,45210.0,0.00188,Ryon Allyrion
+B,House Allyrion,35593.0,0.00148,Daemon Sand
+B,House Kettleblack,11964.0,0.0005,Osfryd Kettleblack
+B,House Kettleblack,67744.0,0.00281,Osmund Kettleblack
+B,House Kettleblack,701.0,3e-05,Osney Kettleblack
+A,House Dayne,31004.0,0.00129,Allyria Dayne
+A,House Dayne,52748.0,0.00219,Wylla
+A,House Dayne,16332.0,0.00068,Ashara Dayne
+A,House Dayne,40332.0,0.00167,Edric Dayne
+A,House Dayne,57448.0,0.00238,Arthur Dayne
+C,House Shett of Gull Tower,15941.0,0.00066,Damon Shett
+B,House Manderly,21470.0,0.00089,Donella Hornwood
+B,House Manderly,46645.0,0.00193,Wyman Manderly
+B,House Manderly,14852.0,0.00062,Wylis Manderly
+C,wildling,59565.0,0.00247,Quort
+C,House Uller,10759.0,0.00045,Ellaria Sand
+C,House Smallwood,35391.0,0.00147,Carellen Smallwood
+B,House Goodbrother,58156.0,0.00241,Gysella Goodbrother
+B,House Goodbrother,17224.0,0.00071,Greydon Goodbrother
+B,House Goodbrother,61255.0,0.00254,Gran Goodbrother
+C,House Tawney,4323.0,0.00018,Lenwood Tawney
+C,House Rosby,29700.0,0.00123,Bethany Rosby
+C,House Strong,21221.0,0.00088,Lyonel Strong
+B,House Hunter,3894.0,0.00016,Eon Hunter
+B,House Hunter,67428.0,0.0028,Harlan Hunter
+B,House Hunter,34741.0,0.00144,Eustace Hunter
+B,House Merryweather,27145.0,0.00113,Taena of Myr
+B,House Merryweather,70448.0,0.00292,Orton Merryweather
+C,House Vikary,26986.0,0.00112,Lymond Vikary
+B,Kingsguard,69853.0,0.0029,Donnel of Duskendale
+B,Kingsguard,10388.0,0.00043,Robert Flowers
+C,House Morrigen,59251.0,0.00246,Lester Morrigen
+C,House Kenning of Kayce,12224.0,0.00051,Terrence Kenning
+B,Brotherhood without banners,3043.0,0.00013,Puddingfoot
+B,Brotherhood without banners,33022.0,0.00137,Greenbeard
+B,Brotherhood without banners,36429.0,0.00151,Anguy
+C,House Merlyn,15750.0,0.00065,Meldred Merlyn
+B,House Royce of the Gates of the Moon,36895.0,0.00153,Ossy
+B,House Royce of the Gates of the Moon,7223.0,0.0003,Raymar Royce
+B,House Royce of the Gates of the Moon,19885.0,0.00082,Albar Royce
+B,House Royce of the Gates of the Moon,33754.0,0.0014,Nestor Royce
+B,R'hllor,70784.0,0.00294,Ezzelyno
+C,City Watch of King's Landing,43324.0,0.0018,Allar Deem
+C,House Plumm,29910.0,0.00124,Viserys Plumm
+C,House Plumm,11002.0,0.00046,Ossifer Plumm
+C,Stormcrows,31500.0,0.00131,Daario Naharis
+C,House Ryger,20957.0,0.00087,Robin Ryger
+C,House Sharp,10006.0,0.00042,Harmund Sharp
+C,House Sharp,30702.0,0.00127,Harrag Sharp
+C,House Hogg,7319.0,0.0003,Roger Hogg
+B,House Vypren,66958.0,0.00278,Damon Vypren
+C,House Cafferen,20261.0,0.00084,Lord Cafferen
+C,House Brax,42834.0,0.00178,Jon Brax
+C,House Brax,19647.0,0.00081,Tytos Brax
+C,House Fossoway,28226.0,0.00117,Leonette Fossoway
+B,House Santagar,69884.0,0.0029,Symon Santagar
+C,Unsullied,29571.0,0.00123,Grey Worm
+C,House Blackfyre,32658.0,0.00135,Aemon Blackfyre
+C,House Potter,11311.0,0.00047,Robin Potter
+C,House Goodbrother of Shatterstone,15133.0,0.00063,Norne Goodbrother
+C,House Willum,39365.0,0.00163,Elyas Willum
+C,House Willum,9664.0,0.0004,Josua Willum
+B,House Humble,22496.0,0.00093,Quellon Humble
+B,House Humble,57436.0,0.00238,Will Humble
+B,Drowned men,29346.0,0.00122,Rus
+B,Drowned men,12423.0,0.00052,Emmond
+B,Drowned men,42733.0,0.00177,Old Grey Gull
+C,House Corbray,35948.0,0.00149,Lyonel Corbray
+C,House Tyrell of Brightwater Keep,26182.0,0.00109,Garlan Tyrell
+C,House Uffering,22393.0,0.00093,Helicent Uffering
+C,House Uffering,25443.0,0.00106,Rolland Uffering
+B,House Dayne of High Hermitage,78430.0,0.00325,Gerold Dayne
+C,House Norrey,18580.0,0.00077,Brandon Norrey
+B,House Lothston,64083.0,0.00266,Manfred Lothston
+B,House Lothston,76724.0,0.00318,Danelle Lothston
+C,House Norridge,22624.0,0.00094,Elyn Norridge
+C,House Bushy,12930.0,0.00054,Ben Bushy
+C,House Flint of Widow's Watch,50112.0,0.00208,Lyessa Flint
+C,House Caron,7304.0,0.0003,Pearse Caron
+C,House Caron,32456.0,0.00135,Bryce Caron
+C,House Blanetree,6271.0,0.00026,Zhoe Blanetree
+C,House Farring,16743.0,0.00069,Bryen Farring
+C,House Farring,10272.0,0.00043,Gilbert Farring
+C,House Blackberry,31536.0,0.00131,Jate Blackberry
+B,House Harlaw of the Tower of Glimmering,65811.0,0.00273,Hotho Harlaw
+C,House Paege,16966.0,0.0007,Garrett Paege
+C,House Paege,225.0,1e-05,Halmon Paege
+C,House Paege,536.0,2e-05,Robert Paege
+C,House of Ghazeen,11905.0,0.00049,Azzak
+C,Citadel,41801.0,0.00173,Gormon Tyrell
+C,House Gargalen,29289.0,0.00121,Tremond Gargalen
+C,House Errol,7220.0,0.0003,Shyra Errol
+C,Maesters,19962.0,0.00083,Walgrave
+C,House Payne,21024.0,0.00087,Ilyn Payne
+C,House Heddle,11436.0,0.00047,Tommard Heddle
+C,House Nymeros Martell,20469.0,0.00085,Doran Martell
+B,House Tarly,15997.0,0.00066,Randyll Tarly
+B,House Tarly,47732.0,0.00198,Talla Tarly
+C,House Coldwater,11859.0,0.00049,Royce Coldwater
+B,House Crane,18847.0,0.00078,Vortimer Crane
+B,House Crane,49178.0,0.00204,Rycherd Crane
+C,House Glover,13752.0,0.00057,Erena Glover
+C,House Leygood,22884.0,0.00095,Simon Leygood
+C,House Deddings,17397.0,0.00072,Darla Deddings
+C,House Mertyns,49632.0,0.00206,Michael Mertyns
+C,House Moore,1898.0,8e-05,Mandon Moore
+C,Brotherhood without Banners,1012.0,4e-05,Notch
+C,House Sarsfield,44608.0,0.00185,Melwyn Sarsfield
+C,House Charlton,61985.0,0.00257,Clarence Charlton
+C,House Nayland,3271.0,0.00014,Lucas Nayland
+C,House Rambton,27296.0,0.00113,Hubard Rambton
+C,Windblown,33860.0,0.0014,Lewis Lanster
+C,House Harlaw of Harridan Hill,26320.0,0.00109,Boremund Harlaw
+C,House Celtigar,34308.0,0.00142,Ardrian Celtigar
+C,House Greenfield,46619.0,0.00193,Garth Greenfield
+C,House Blackbar,17635.0,0.00073,Leo Blackbar
+C,House Ambrose,26039.0,0.00108,Aubrey Ambrose
+C,House Dustin,41678.0,0.00173,Willam Dustin
+C,House Suggs,59269.0,0.00246,Clayton Suggs
+C,Mance Rayder,12073.0,0.0005,Ygritte
+C,House Shepherd,7317.0,0.0003,Qarl Shepherd
+C,House Buckler,34608.0,0.00144,Cedrik Storm
+C,House Sunglass,26129.0,0.00108,Triston of Tally Hill
+C,House Grandison,2337.0,0.0001,Harlan Grandison
