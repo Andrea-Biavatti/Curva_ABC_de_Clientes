@@ -1,4 +1,4 @@
-# ![Cópia de Sem nome](https://user-images.githubusercontent.com/72770754/196776888-8cf52ddc-32a7-4813-8770-903206772d81.png) Teste Prático  |  Curva ABC
+# ![Cópia de Sem nome (1)](https://user-images.githubusercontent.com/72770754/196786911-dd7d6627-4235-44f9-8c35-a8428ba3c86d.png) Teste Prático  |  Curva ABC
 
 Atividade desenvolvida durante o Processo Seletivo para a vaga de Analista de Sistemas JR - Área de Engenharia de Dados - RPC.
 
@@ -31,7 +31,7 @@ patrimônio previsto para este ano.
 </details>
 
 
- <details><summary> 👩‍💻 TECNOLOGIAS UTILIZADAS </summary>
+ <details><summary> 🔧 TECNOLOGIAS UTILIZADAS </summary>
 
 <p>
 
