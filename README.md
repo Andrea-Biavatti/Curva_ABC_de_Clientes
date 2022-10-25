@@ -1,4 +1,4 @@
-# ![Cópia de Sem nome (1)](https://user-images.githubusercontent.com/72770754/196786911-dd7d6627-4235-44f9-8c35-a8428ba3c86d.png) Teste Prático  |  Curva ABC
+# ![Cópia de Sem nome (1)](https://user-images.githubusercontent.com/72770754/196786911-dd7d6627-4235-44f9-8c35-a8428ba3c86d.png) Curva ABC de Clientes
 
 Também conhecida como Regra 80/20 — ou, ainda, Análise de Pareto — a Curva ABC é um método utilizado onde alguns pontos (nesse caso, os clientes) são organizados por ordem de relevância. Normalmente essa relevância é calculada com base na representatividade que esses clientes possuem sobre o faturamento da empresa. Essa análise diz que aproximadamente 80% do seu faturamento é proveniente de cerca 20% de sua base de clientes.
 
