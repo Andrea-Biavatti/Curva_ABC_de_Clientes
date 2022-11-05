@@ -49,7 +49,7 @@ patrimônio previsto para este ano.
 
 <p>
 
-1) Link para o Dashboard interativo:      ▶  [Curva ABC de Clientes](https://datastudio.google.com/s/u2Ld3Zr7mrc)
+1) Link para o Dashboard interativo:      ▶  [Curva ABC de Clientes](https://datastudio.google.com/reporting/6e162161-5e54-44e5-9dd4-fe380f6561f1)
 
 2) Arquivo **ETL_Storytelling.ipynb**:   📝  contém todo o processo de ETL realizado e documentado.
 
